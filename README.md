@@ -22,14 +22,13 @@ Hi, I'm Mohamed Aziz Ktata!
 <hr>
 
 <pre>
-💻 I am a self taught Full Stack Developer and a Machine Learning Developer
-📚 I have a Bachelors in Computer Science from the University Cadi Ayyad at Morocco
+💻 I am a Full Stack Developer and a Machine Learning enthusiast.
+📚 Currently pursuing an engineering degree in computer science, majoring in software engineering.
 📝 I have a strong interest in Data Science and Artificial Intelligence
-🔭 Working on Deep Learning & Machine Learning
+🔭 Working on Machine Learning & Deep Learning
 🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Python, JavaScript
-🚩 Interested in Full Stack Machine Learning Application development
-🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1OL-pYjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing" target="_blank">MY RESUME.</a>
+🌟 Main languages: JavaScript, Python
+🤔 I’m currently open for: <b>End-of-studies Internship</b>, this is <a href="https://firebasestorage.googleapis.com/v0/b/mail-signature-2e3a3.appspot.com/o/CV%2Fsoftware%2Feng%2FMohamed-Aziz-Ktata-CV-v3-Fall-2024-eng.pdf?alt=media&token=8c00cabd-39c4-4228-8d16-d917a996c54c" target="_blank">MY RESUME (eng)</a>
 </pre>
 <hr>
 
@@ -56,9 +55,9 @@ Hi, I'm Mohamed Aziz Ktata!
     <a href="https://github.com/medazizktata"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
     <a href="https://github.com/medazizktata"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
     <a href="https://github.com/medazizktata"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
-    <a href="https://github.com/medazizktata"><img alt="Angular" src="https://img.shields.io/badge/Angular%20-%23D00000.svg?logo=Angular&logoColor=white"></a>
+    <<!-- a href="https://github.com/medazizktata"><img alt="Angular" src="https://img.shields.io/badge/Angular%20-%23D00000.svg?logo=Angular&logoColor=white"></a>
     <a href="https://github.com/medazizktata"><img alt="Spring" src="https://img.shields.io/badge/Spring%20Boot%20-%2334A853.svg?logo=Springboot&logoColor=white"></a>
-    <a href="https://github.com/medazizktata"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23150458.svg?logo=Bootstrap&logoColor=white"></a>
+    <a href="https://github.com/medazizktata"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23150458.svg?logo=Bootstrap&logoColor=white"></a> -->
 </p>
 
 ### 🗄️ Databases and Cloud Hosting
@@ -73,7 +72,7 @@ Hi, I'm Mohamed Aziz Ktata!
 <p>
     <a href="https://github.com/medazizktata"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
     <a href="https://github.com/medazizktata"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-    <a href="https://github.com/medazizktata"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
+    <!-- <a href="https://github.com/medazizktata"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a> -->
     <a href="https://github.com/medazizktata"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
     <a href="https://github.com/medazizktata"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
     <a href="https://github.com/medazizktata"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
@@ -97,8 +96,8 @@ Hi, I'm Mohamed Aziz Ktata!
 <br/>
 <p align="center">
 	<a href="https://github.com/medazizktata">
-	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=bouaskaoun&show_icons=true" alt="bouaskaoun">
-	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=bouaskaoun" alt="bouaskaoun">
+	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=medazizktata&show_icons=true" alt="medazizktata">
+	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=medazizktata" alt="medazizktata">
 	</a>
 	<br/>
 </p>
@@ -108,7 +107,7 @@ Hi, I'm Mohamed Aziz Ktata!
 <br/>
 <p align="center">
 	<a href="https://github.com/medazizktata">
-		<img src="https://activity-graph.herokuapp.com/graph?username=bouaskaoun&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true" alt="bouaskaoun">
+		<img src="https://activity-graph.herokuapp.com/graph?username=medazizktata&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true" alt="bouaskaoun">
 	</a>
 </p>
 <br/>
@@ -118,11 +117,11 @@ Hi, I'm Mohamed Aziz Ktata!
 
 <p align="center">
 	<a href="https://github.com/medazizktata">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bouaskaoun&langs_count=8&layout=compact" alt="bouaskaoun">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=medazizktata&langs_count=8&layout=compact" alt="medazizktata">
 	</a>
 	<br/>
 <br/>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<!-- <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
 </p>
 <br/>
 
@@ -132,9 +131,7 @@ Hi, I'm Mohamed Aziz Ktata!
 
 ## Let's Work on Your Project Together!
 
-If you have any questions about front-end web development, feel free to <a href="mailto:bouaskaoun.mohammed@gmail.com">contact me through email</a> me.
-
-You can hire me as a freelancer on <a href="https://www.fiverr.com">Fiverr</a> or <a href="https://www.linkedin.com/in/bouaskaoun/">LinkedIn</a> to deploy your machine learning project on web.
+If you have any questions about fullstack web development, feel free to <a href="mailto:aziiizktata7@gmail.com">contact me through email</a> me.
 
   </td>
   <td width="50%" valign="top">
