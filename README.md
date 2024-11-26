@@ -4,9 +4,7 @@
 		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
 	</a>
 </p>
-
-<hr>
-
+## 🤝 About me
 <pre>
 💻 I am a Full Stack Developer and a Machine Learning enthusiast.
 📚 Currently pursuing an engineering degree in computer science, majoring in software engineering.
@@ -14,9 +12,8 @@
 🔭 Working on Machine Learning & Deep Learning
 🌱 Learning about Computer Vision and Machine Learning stuff
 🌟 Main languages: JavaScript, Python
-🤔 I’m currently open for: <b>End-of-studies Internship</b>, this is <a href="https://firebasestorage.googleapis.com/v0/b/mail-signature-2e3a3.appspot.com/o/CV%2Fsoftware%2Feng%2FMohamed-Aziz-Ktata-CV-v3-Fall-2024-eng.pdf?alt=media&token=8c00cabd-39c4-4228-8d16-d917a996c54c" target="_blank">MY RESUME(eng)</a>
+🤔 I’m currently open for: <b>End-of-studies Internship</b>, this is <a href="https://firebasestorage.googleapis.com/v0/b/mail-signature-2e3a3.appspot.com/o/CV%2Fsoftware%2Feng%2FMohamed-Aziz-Ktata-CV-v3-Fall-2024-eng.pdf?alt=media&token=8c00cabd-39c4-4228-8d16-d917a996c54c" target="_blank">MY RESUME</a>
 </pre>
-<hr>
 
 ## 🤝 Connect with me
 <a href="https://www.linkedin.com/in/mohamed-aziz-ktata-45a3aa210/">
