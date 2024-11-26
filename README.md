@@ -43,9 +43,7 @@ Hi, I'm Mohamed Aziz Ktata!
 ## 🛠️ My Favorite Tools
 
 ### 👨‍💻 Programming Languages
-
-<p>
-   ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
+![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
@@ -53,11 +51,8 @@ Hi, I'm Mohamed Aziz Ktata!
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
-### 🧰 Frameworks and Libraries
-
-<p>
- 
- ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
+### 🧰 Frameworks and Libraries 
+![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
 ![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
@@ -70,13 +65,10 @@ Hi, I'm Mohamed Aziz Ktata!
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Heroku](https://img.shields.io/badge/-Heroku-222222?style=flat-square&logo=heroku)
-![Keras](https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white)
- ![NumPy](https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white)
- ![Pandas](https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white)
- ![TensorFlow](https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white)
-<br/>
-
-</p>
+![Keras](https://img.shields.io/badge/Keras%20-%23D00000.svg?style=flat-square&logo=Keras)
+ ![NumPy](https://img.shields.io/badge/Numpy%20-%23013243.svg?style=flat-square&logo=numpy)
+ ![Pandas](https://img.shields.io/badge/Pandas%20-%23150458.svg?style=flat-square&logo=pandas)
+ ![TensorFlow](https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?style=flat-square&logo=TensorFlow)
 
 ### 🗄️ Databases and Cloud Hosting
 
@@ -90,7 +82,6 @@ Hi, I'm Mohamed Aziz Ktata!
 <p>
     <a href="https://github.com/medazizktata"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
     <a href="https://github.com/medazizktata"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-    <!-- <a href="https://github.com/medazizktata"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a> -->
     <a href="https://github.com/medazizktata"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
     <a href="https://github.com/medazizktata"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
     <a href="https://github.com/medazizktata"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
