@@ -28,7 +28,7 @@ Hi, I'm Mohamed Aziz Ktata!
 🔭 Working on Machine Learning & Deep Learning
 🌱 Learning about Computer Vision and Machine Learning stuff
 🌟 Main languages: JavaScript, Python
-🤔 I’m currently open for: <b>End-of-studies Internship</b>, this is <a href="https://firebasestorage.googleapis.com/v0/b/mail-signature-2e3a3.appspot.com/o/CV%2Fsoftware%2Feng%2FMohamed-Aziz-Ktata-CV-v3-Fall-2024-eng.pdf?alt=media&token=8c00cabd-39c4-4228-8d16-d917a996c54c" target="_blank">MY RESUME (eng)</a>
+🤔 I’m currently open for: <b>End-of-studies Internship</b>, this is <a href="https://firebasestorage.googleapis.com/v0/b/mail-signature-2e3a3.appspot.com/o/CV%2Fsoftware%2Feng%2FMohamed-Aziz-Ktata-CV-v3-Fall-2024-eng.pdf?alt=media&token=8c00cabd-39c4-4228-8d16-d917a996c54c" target="_blank">MY RESUME(eng)</a>
 </pre>
 <hr>
 
@@ -45,19 +45,37 @@ Hi, I'm Mohamed Aziz Ktata!
 ### 👨‍💻 Programming Languages
 
 <p>
-    <a href="https://github.com/medazizktata"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="https://github.com/medazizktata"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
-
+   ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 ### 🧰 Frameworks and Libraries
 
 <p>
-    <a href="https://github.com/medazizktata"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"></a>
-    <a href="https://github.com/medazizktata"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
-    <a href="https://github.com/medazizktata"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
-    <a href="https://github.com/medazizktata"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
-    <<!-- a href="https://github.com/medazizktata"><img alt="Angular" src="https://img.shields.io/badge/Angular%20-%23D00000.svg?logo=Angular&logoColor=white"></a>
-    <a href="https://github.com/medazizktata"><img alt="Spring" src="https://img.shields.io/badge/Spring%20Boot%20-%2334A853.svg?logo=Springboot&logoColor=white"></a>
-    <a href="https://github.com/medazizktata"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23150458.svg?logo=Bootstrap&logoColor=white"></a> -->
+ 
+ ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
+![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)
+![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
+![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
+![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
+![Java Spring](https://img.shields.io/badge/-Spring-222222?style=flat&logo=spring&logoColor=6DB33F)
+![Firebase](https://img.shields.io/badge/Firebase-222222?style=flat-square&logo=firebase)
+![AzureCloud](https://img.shields.io/badge/Microsoft%20Azure-222222?style=flat-square&logo=microsoft-azure)
+![Amazon Web Services](https://img.shields.io/badge/-Amazon%20Web%20Services-222222?style=flat-square&logo=Amazon-Web-Service)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Heroku](https://img.shields.io/badge/-Heroku-222222?style=flat-square&logo=heroku)
+![Keras](https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white)
+ ![NumPy](https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white)
+ ![Pandas](https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white)
+ ![TensorFlow](https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white)
+<br/>
+
 </p>
 
 ### 🗄️ Databases and Cloud Hosting
@@ -107,7 +125,7 @@ Hi, I'm Mohamed Aziz Ktata!
 <br/>
 <p align="center">
 	<a href="https://github.com/medazizktata">
-		<img src="https://activity-graph.herokuapp.com/graph?username=medazizktata&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true" alt="bouaskaoun">
+		<img src="https://activity-graph.herokuapp.com/graph?username=medazizktata&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true" alt="medazizktata">
 	</a>
 </p>
 <br/>
@@ -117,7 +135,7 @@ Hi, I'm Mohamed Aziz Ktata!
 
 <p align="center">
 	<a href="https://github.com/medazizktata">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=medazizktata&langs_count=8&layout=compact" alt="medazizktata">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=medazizktata&langs_count=6&layout=compact" alt="medazizktata">
 	</a>
 	<br/>
 <br/>
