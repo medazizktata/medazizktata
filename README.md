@@ -23,15 +23,15 @@
 <a href="https://github.com/medazizktata">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </a>
-<a href="https://www.facebook.com/your-facebook-profile">
+<a href="https://www.facebook.com/people/Mohamed-Aziz-Ktata/pfbid0kL4gKJngTmyGGHBF6jfodYYVVQN6F7eccgcEtXfnmxx2hSS5kDid4RjrM1F4fCGhl/">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
 </a>
-<a href="https://www.instagram.com/your-instagram-profile">
+<a href="https://www.instagram.com/medaziizktata7">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
-<a href="https://www.kaggle.com/your-kaggle-profile">
+<!-- <a href="https://www.kaggle.com/your-kaggle-profile">
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white">
-</a>
+</a> -->
 
 ## 🧰 Tech Toolbox
 
