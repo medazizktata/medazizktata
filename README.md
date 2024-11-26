@@ -1,21 +1,4 @@
 <h2>Hi, My name is Mohamed Aziz Ktata! Welcome to my github profile<img src="https://raw.githubusercontent.com/medazizktata/medazizktata/master/wave.gif" width="30px"></h2><br>
-
-<a href="https://www.linkedin.com/in/mohamed-aziz-ktata-45a3aa210/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>&nbsp;&nbsp;
-<a href="https://github.com/medazizktata">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-</a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/your-facebook-profile">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
-</a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/your-instagram-profile">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>&nbsp;&nbsp;
-<a href="https://www.kaggle.com/your-kaggle-profile">
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white">
-</a>
-
 <p align="center">
 	<a href="https://github.com/medazizktata">
 		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
@@ -36,43 +19,47 @@
 <hr>
 
 ## 🤝 Connect with me
-<p align="center">
-	<a href="mailto:aziiizktata7@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://www.linkedin.com/in/mohamed-aziz-ktata-45a3aa210/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://github.com/medazizktata"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<!-- <a href="https://www.kaggle.com/bouaskaounmohammed"><img src="https://img.shields.io/badge/kaggle-%230A66C2.svg?style=plastic&logo=kaggle&logoColor=white" alt="Kaggle"/></a> -->
-</p>
+<a href="https://www.linkedin.com/in/mohamed-aziz-ktata-45a3aa210/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="https://github.com/medazizktata">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<a href="https://www.facebook.com/your-facebook-profile">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+</a>
+<a href="https://www.instagram.com/your-instagram-profile">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+<a href="https://www.kaggle.com/your-kaggle-profile">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white">
+</a>
 
 ## 🧰 Tech Toolbox
 
 <p align="left">
-<img src="https://github.com/medazizktata/medazizktata/blob/main/TechStack/C.png" alt="C" width="40" height="40"/>
-<img src="https://github.com/medazizktata/medazizktata/blob/main/TechStack/C%2B%2B.png" alt="C++" width="40" height="40"/> 
-<img src="https://github.com/medazizktata/medazizktata/blob/main/TechStack/Visual%20Studio%20Code.png" alt="Visual Studio Code" width="40" height="40"/>
-<img src="https://github.com/medazizktata/medazizktata/blob/main/TechStack/KeilUVision.png" alt="KeilUVision" width="40" height="40"/>
-<img src="https://github.com/medazizktata/medazizktata/blob/main/TechStack/MPLab.jpg" alt="MPLab" width="40" height="40"/>
-<img src="https://github.com/medazizktata/medazizktata/blob/main/TechStack/DocklightScripting.png" alt="Docklight Scripting" width="40" height="40"/>
-<img src="https://github.com/medazizktata/medazizktata/blob/main/TechStack/IoT.jpg" alt="IoT" width="40" height="40"/>
-<img src="https://github.com/medazizktata/medazizktata/blob/main/TechStack/Matlab.png" alt="Matlab" width="40" height="40"/>
-<img src="https://github.com/medazizktata/medazizktata/blob/main/TechStack/Arduino.png" alt="Arduino" width="40" height="40"/>
-<img src="https://github.com/medazizktata/medazizktata/blob/main/TechStack/Raspberry.png" alt="Raspberry Pi" width="40" height="40"/>
-<img src="https://github.com/medazizktata/medazizktata/blob/main/TechStack/Linux.png" alt="Linux" width="40" height="40"/>
-<img src="https://github.com/medazizktata/medazizktata/blob/main/TechStack/Python.png" alt="Python" width="40" height="40"/> 
-<img src="https://github.com/medazizktata/medazizktata/blob/main/TechStack/Colab.png" alt="Google Colab" width="40" height="40"/>
-<img src="https://github.com/medazizktata/medazizktata/blob/main/TechStack/Jupyter.png" alt="Jupyter" width="40" height="40"/>
-<img src="https://github.com/medazizktata/medazizktata/blob/main/TechStack/Pycharm.png" alt="Pycharm" width="40" height="40"/>
-<img src="https://github.com/medazizktata/medazizktata/blob/main/TechStack/Numpy.png" alt="Numpy" width="40" height="40"/>
-<img src="https://github.com/medazizktata/medazizktata/blob/main/TechStack/Pandas.png" alt="Pandas" width="40" height="40"/>
-<img src="https://github.com/medazizktata/medazizktata/blob/main/TechStack/OpenCV.jpg" alt="OpenCV" width="40" height="40"/>
-<img src="https://github.com/medazizktata/medazizktata/blob/main/TechStack/TensorFlow.png" alt="TensorFlow" width="40" height="40"/>
-<img src="https://github.com/medazizktata/medazizktata/blob/main/TechStack/Git.png" alt="Git" width="40" height="40"/>
-<img src="https://github.com/medazizktata/medazizktata/blob/main/TechStack/Github.png" alt="GitHub" width="40" height="40"/>
-<img src="https://github.com/medazizktata/medazizktata/blob/main/TechStack/Azure.png" alt="Azure" width="40" height="40"/>
-<img src="https://github.com/medazizktata/medazizktata/blob/main/TechStack/AWS.png" alt="AWS" width="40" height="40"/>
-<img src="https://github.com/medazizktata/medazizktata/blob/main/TechStack/Firebase.png" alt="Firebase" width="40" height="40"/>
-<img src="https://github.com/medazizktata/medazizktata/blob/main/TechStack/Heroku.png" alt="Heroku" width="40" height="40"/>
-<img src="https://github.com/medazizktata/medazizktata/blob/main/TechStack/Html.png" alt="HTML" width="40" height="40"/>
-<img src="https://github.com/medazizktata/medazizktata/blob/main/TechStack/Css.png" alt="CSS" width="40" height="40"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab">
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
+<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase">
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
 
 ## <a href="https://github.com/medazizktata"><img src="https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png" width="30"></a> GitHub Stats
 
