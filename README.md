@@ -8,7 +8,7 @@
 <br/>
 🎨 Side: photography, photo/video, motion — Tunis.
 <br/>
-📫 <a href="mailto:mohamedazizktata7@gmail.com">mohamedazizktata7@gmail.com</a>
+📫 <a href="mailto:aziiizktata7@gmail.com">aziiizktata7@gmail.com</a>
  · <a href="https://firebasestorage.googleapis.com/v0/b/mail-signature-2e3a3.appspot.com/o/CV%2Fsoftware%2Feng%2FMohamed-Aziz-Ktata-CV-v3-Fall-2024-eng.pdf?alt=media&token=8c00cabd-39c4-4228-8d16-d917a996c54c">Resume</a>
 </p>
 
@@ -94,7 +94,7 @@
 ---
 
 ### 🌐 Let's Connect
-📧 **Email:** [mohamedazizktata7@gmail.com](mailto:mohamedazizktata7@gmail.com)
+📧 **Email:** [aziiizktata7@gmail.com](mailto:aziiizktata7@gmail.com)
 💼 **LinkedIn:** [linkedin.com/in/mohamed-aziz-ktata-45a3aa210](https://www.linkedin.com/in/mohamed-aziz-ktata-45a3aa210/)
 🌍 **GitHub:** [github.com/medazizktata](https://github.com/medazizktata)
 🎨 **Behance:** [behance.net/medazizktata](https://www.behance.net/medazizktata)
