@@ -1,12 +1,12 @@
 <h1 align="center">👋 Hey, I'm <span style="color:#4F46E5;">Mohamed Aziz Ktata</span></h1>
-<h3 align="center">Full-Stack & Cloud Engineer | Next.js · Laravel · React</h3>
+<h3 align="center">Full-Stack & Cloud Engineer | Guepard · Next.js · Laravel</h3>
 
 <p align="center">
-💻 I build and ship complete products — full-stack apps and cloud infrastructure, end to end.
+💻 Building <a href="https://github.com/Guepard-Corp">Guepard</a> — Git for databases: GFS, Tenet (PII masking for AI agents), console + data plane.
 <br/>
-🌱 Day job: Laravel + React platforms, Next.js marketing sites, Supabase/Prisma backends.
+🌱 Also ship Laravel + React platforms and Next.js / Supabase products.
 <br/>
-🎨 Side: photography, photo/video, motion — Tunis.
+🎨 Photo / video / motion — Tunis.
 <br/>
 📫 <a href="mailto:aziiizktata7@gmail.com">aziiizktata7@gmail.com</a>
  · <a href="https://firebasestorage.googleapis.com/v0/b/mail-signature-2e3a3.appspot.com/o/CV%2Fsoftware%2Feng%2FMohamed-Aziz-Ktata-CV-v3-Fall-2024-eng.pdf?alt=media&token=8c00cabd-39c4-4228-8d16-d917a996c54c">Resume</a>
