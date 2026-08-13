@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hey, I'm <span style="color:#4F46E5;">Mohamed Aziz Ktata</span></h1>
-<h3 align="center">Full-Stack & Cloud Engineer | Guepard · Next.js · Laravel</h3>
+<h3 align="center">Full-Stack & AI Engineer | Guepard · Next.js · Laravel</h3>
 
 <p align="center">
-💻 Open source at <a href="https://github.com/Guepard-Corp">Guepard</a> — <a href="https://github.com/Guepard-Corp/gfs">GFS</a> (Git for databases), plus the public <a href="https://github.com/Guepard-Corp/guepard-cli">CLI</a> / <a href="https://github.com/Guepard-Corp/guepard-mcp-server">MCP</a>.
+💻 Open source at <a href="https://github.com/Guepard-Corp">Guepard</a> — <a href="https://github.com/Guepard-Corp/gfs">GFS</a> (Git for databases).
 <br/>
 🌱 Also ship Laravel + React platforms and Next.js / Supabase products.
 <br/>
