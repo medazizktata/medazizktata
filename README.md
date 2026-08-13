@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack & Cloud Engineer | Guepard · Next.js · Laravel</h3>
 
 <p align="center">
-💻 Building <a href="https://github.com/Guepard-Corp">Guepard</a> — Git for databases: GFS, Tenet (PII masking for AI agents), console + data plane.
+💻 Open source at <a href="https://github.com/Guepard-Corp">Guepard</a> — <a href="https://github.com/Guepard-Corp/gfs">GFS</a> (Git for databases), plus the public <a href="https://github.com/Guepard-Corp/guepard-cli">CLI</a> / <a href="https://github.com/Guepard-Corp/guepard-mcp-server">MCP</a>.
 <br/>
 🌱 Also ship Laravel + React platforms and Next.js / Supabase products.
 <br/>
