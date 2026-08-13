@@ -83,12 +83,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=medazizktata&show_icons=true&theme=tokyonight" alt="Mohamed Aziz Ktata's GitHub stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=medazizktata&layout=compact&theme=tokyonight" alt="Top languages" height="150"/>
+  <img width="49%" src="https://github-readme-stats.shion.dev/api?username=medazizktata&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
+  <img width="49%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=medazizktata&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=medazizktata&theme=tokyonight" alt="GitHub Streak Stats" height="150"/>
+  <img src="https://streak-stats.demolab.com/?user=medazizktata&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 </p>
 
 ---
