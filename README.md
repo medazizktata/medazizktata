@@ -1,93 +1,104 @@
-<h2>Hi, My name is Mohamed Aziz Ktata! Welcome to my github profile<img src="https://raw.githubusercontent.com/medazizktata/medazizktata/master/wave.gif" width="30px"></h2><br>
+<h1 align="center">👋 Hey, I'm <span style="color:#4F46E5;">Mohamed Aziz Ktata</span></h1>
+<h3 align="center">Full-Stack & Cloud Engineer | Next.js · Laravel · React</h3>
+
 <p align="center">
-	<a href="https://github.com/medazizktata">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
-	</a>
+💻 I build and ship complete products — full-stack apps and cloud infrastructure, end to end.
+<br/>
+🌱 Day job: Laravel + React platforms, Next.js marketing sites, Supabase/Prisma backends.
+<br/>
+🎨 Side: photography, photo/video, motion — Tunis.
+<br/>
+📫 <a href="mailto:mohamedazizktata7@gmail.com">mohamedazizktata7@gmail.com</a>
+ · <a href="https://firebasestorage.googleapis.com/v0/b/mail-signature-2e3a3.appspot.com/o/CV%2Fsoftware%2Feng%2FMohamed-Aziz-Ktata-CV-v3-Fall-2024-eng.pdf?alt=media&token=8c00cabd-39c4-4228-8d16-d917a996c54c">Resume</a>
 </p>
 
-## 🤝 About me
-<pre>
-💻 I am a Full Stack Developer and a Machine Learning enthusiast.
-📚 Currently pursuing an engineering degree in computer science, majoring in software engineering.
-📝 I have a strong interest in Data Science and Artificial Intelligence
-🔭 Working on Machine Learning & Deep Learning
-🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: JavaScript, Python
-🤔 I’m currently open for: <b>End-of-studies Internship</b>, this is <a href="https://firebasestorage.googleapis.com/v0/b/mail-signature-2e3a3.appspot.com/o/CV%2Fsoftware%2Feng%2FMohamed-Aziz-Ktata-CV-v3-Fall-2024-eng.pdf?alt=media&token=8c00cabd-39c4-4228-8d16-d917a996c54c" target="_blank">MY RESUME</a>
-</pre>
+---
 
-## 🤝 Connect with me
-<a href="https://www.linkedin.com/in/mohamed-aziz-ktata-45a3aa210/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="https://github.com/medazizktata">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-</a>
-<a href="https://www.facebook.com/people/Mohamed-Aziz-Ktata/pfbid0kL4gKJngTmyGGHBF6jfodYYVVQN6F7eccgcEtXfnmxx2hSS5kDid4RjrM1F4fCGhl/">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
-</a>
-<a href="https://www.instagram.com/medaziizktata7">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-<!-- <a href="https://www.kaggle.com/your-kaggle-profile">
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white">
-</a> -->
+### 🛠️ Languages & Tools
 
-## 🧰 Tech Toolbox
-
-<p align="left">
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
-<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab">
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
-<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy">
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure">
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase">
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-
-## <a href="https://github.com/medazizktata"><img src="https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png" width="30"></a> GitHub Stats
-
-<br/>
-<summary><b>⚡ medazizktata's Stats</b></summary>
-<br/>
 <p align="center">
-	<a href="https://github.com/medazizktata">
-	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=medazizktata&show_icons=true" alt="medazizktata">
-	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=medazizktata" alt="medazizktata">
-	</a>
-	<br/>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="45" height="45"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="45" height="45"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/></a>
 </p>
-<br/>
-<!--
-<summary><b>⚡ Activity graph</b></summary>
-<br/>
-<p align="center">
-	<a href="https://github.com/medazizktata">
-		<img src="https://activity-graph.herokuapp.com/graph?username=medazizktata&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true" alt="medazizktata">
-	</a>
-</p>
-<br/>
--->
-<summary><b>⚡ Top Languages</b></summary>
-<br/>
+
+---
+
+### ⚙️ Frameworks & Libraries
 
 <p align="center">
-	<a href="https://github.com/medazizktata">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=medazizktata&langs_count=6&layout=compact" alt="medazizktata">
-	</a>
-	<br/></p>
-<br/>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="45" height="45"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="45" height="45"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" width="45" height="45"/></a>
+  <a href="#"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="45" height="45"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="Prisma" width="45" height="45"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="45" height="45"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original.svg" alt="Symfony" width="45" height="45"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="45" height="45"/></a>
+</p>
+
+---
+
+### 🗄️ Databases
+
+<p align="center">
+  <a href="#"><img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="Supabase" width="45" height="45"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" height="45"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45"/></a>
+  <a href="#"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="45" height="45"/></a>
+</p>
+
+---
+
+### ☁️ Tools & Cloud / DevOps
+
+<p align="center">
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="45" height="45"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="45" height="45"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="45" height="45"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="45" height="45"/></a>
+  <a href="#"><img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Vercel" width="45" height="45"/></a>
+</p>
+
+---
+
+### 🤖 AI & Data
+
+<p align="center">
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="45" height="45"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="45" height="45"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="45" height="45"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="45" height="45"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="45" height="45"/></a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=medazizktata&show_icons=true&theme=tokyonight" alt="Mohamed Aziz Ktata's GitHub stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=medazizktata&layout=compact&theme=tokyonight" alt="Top languages" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=medazizktata&theme=tokyonight" alt="GitHub Streak Stats" height="150"/>
+</p>
+
+---
+
+### 🌐 Let's Connect
+📧 **Email:** [mohamedazizktata7@gmail.com](mailto:mohamedazizktata7@gmail.com)
+💼 **LinkedIn:** [linkedin.com/in/mohamed-aziz-ktata-45a3aa210](https://www.linkedin.com/in/mohamed-aziz-ktata-45a3aa210/)
+🌍 **GitHub:** [github.com/medazizktata](https://github.com/medazizktata)
+🎨 **Behance:** [behance.net/medazizktata](https://www.behance.net/medazizktata)
+
+---
+
+⭐ *“Ship the product. Keep the craft.”*
