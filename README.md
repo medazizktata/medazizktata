@@ -2,12 +2,6 @@
 <h3 align="center">Full-Stack & AI Engineer | Guepard · Next.js · Laravel</h3>
 
 <p align="center">
-💻 Open source at <a href="https://github.com/Guepard-Corp">Guepard</a> — <a href="https://github.com/Guepard-Corp/gfs">GFS</a> (Git for databases).
-<br/>
-🌱 Also ship Laravel + React platforms and Next.js / Supabase products.
-<br/>
-🎨 Photo / video / motion — Tunis.
-<br/>
 📫 <a href="mailto:aziiizktata7@gmail.com">aziiizktata7@gmail.com</a>
  · <a href="https://firebasestorage.googleapis.com/v0/b/mail-signature-2e3a3.appspot.com/o/CV%2Fsoftware%2Feng%2FMohamed-Aziz-Ktata-CV-v3-Fall-2024-eng.pdf?alt=media&token=8c00cabd-39c4-4228-8d16-d917a996c54c">Resume</a>
 </p>
