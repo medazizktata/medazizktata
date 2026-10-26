@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey, I'm <span style="color:#4F46E5;">Mohamed Aziz Ktata</span></h1>
-<h3 align="center">Full-Stack & AI Engineer | Guepard · Next.js · Laravel</h3>
+<h3 align="center">Full-Stack & AI Engineer @ Guepard</h3>
 
 <p align="center">
 📫 <a href="mailto:aziiizktata7@gmail.com">aziiizktata7@gmail.com</a>
