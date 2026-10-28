@@ -77,6 +77,14 @@
 ### 📊 GitHub Stats
 
 <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/medazizktata/medazizktata/main/profile-3d-contrib/profile-night-green.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/medazizktata/medazizktata/main/profile-3d-contrib/profile-green-animate.svg" />
+    <img alt="Contributions in 3D" src="https://raw.githubusercontent.com/medazizktata/medazizktata/main/profile-3d-contrib/profile-night-green.svg" />
+  </picture>
+</p>
+
+<p align="center">
   <img width="49%" src="https://github-readme-stats.shion.dev/api?username=medazizktata&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
   <img width="49%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=medazizktata&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
 </p>
