@@ -85,7 +85,6 @@
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.shion.dev/api?username=medazizktata&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
   <img width="49%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=medazizktata&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
 </p>
 
